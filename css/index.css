@@ -1,0 +1,23 @@
+body{
+    background: rgb(195, 247, 9);
+}
+
+.registration-form{
+    background-color: aqua;
+    width: 500px;
+    transform: translate(50px);
+    width: fit-content;
+}
+
+.registration-form h1{
+   background-color: rgb(16, 133, 127);
+   color: rgb(110, 171, 13);
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px
+}
+
+.sucursal{
+    color: rgb(235, 10, 10);
+}

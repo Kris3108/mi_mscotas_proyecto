@@ -2,6 +2,26 @@ body{
     background: rgb(195, 247, 9);
 }
 
+h1{
+    background-color: aqua;
+    color: green;
+    text-align: center;
+    font-size: 50px;
+    margin: 10px;
+}
+
+h2{
+    background-color: green;
+    color: aqua;
+    margin: 10px;
+    font-weight: 80px;
+    width: 150px;
+}
+h3{
+    background-color: blueviolet;
+    width: 270px;
+}
+
 .registration-form{
     background-color: aqua;
     width: 500px;
